@@ -37,6 +37,9 @@ public class Main {
             e.printStackTrace();
         }
 
+
+
+
         int[] arr2 = new int[arr1.length];
         int index = 0;
 
